@@ -203,3 +203,6 @@ Expression Design is offered as a full free version, providing all features and 
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 Unlock your creative potential today with Expression Design—your complete suite for professional vector graphic design!
+
+---
+**Last updated:** 2026-09-15 09:18:34 UTC
